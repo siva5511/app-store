@@ -1,0 +1,21 @@
+.image-prop {
+  height: 100px;
+}
+.app-name-prop {
+  font-size: 20px;
+  text-align: center;
+}
+
+.app-cont-prop {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  background-color: #ffffff;
+  width: 10vw;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  height: 200px;
+}

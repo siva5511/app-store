@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.button-prop {
+  color: #7b8794;
+  border-style: none;
+  background-color: transparent;
+  margin-right: 10px;
+  font-weight: bold;
+  list-style: none;
+  outline: none;
+}
+
+.active-button {
+  color: #2563eb;
+  border-style: none;
+  background-color: transparent;
+  margin-right: 10px;
+  font-weight: bold;
+  list-style: none;
+  outline: none;
+}
